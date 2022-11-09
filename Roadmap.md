@@ -1,4 +1,8 @@
-### LED Display gg wpwp dylan matthew
+<<<<<<< HEAD
+### LED Display gg wpwp dylan matthewtest
+=======
+### LED Display gg wpwp dylanv2
+>>>>>>> 7889a468ea31dd8d4e8178eb4cf7f875ce8cc562
 # Sprint 1:
 - [x] Purchase materials (64x32 RGB LED Matrix, 5v 4AMP power supply, Stand-offs, Ribbon Cable, RGB Matrix hat kit, Battery)
 - [x] Analyze TidBit's repository and apply to personal characteristics
