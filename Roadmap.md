@@ -1,3 +1,4 @@
+# SPRINT 1
 Purchase materials (64x32 RGB LED Matrix, 5v 4AMP power supply, Stand-offs, Ribbon Cable, RGB Matrix hat kit, Battery)
 Analyze TidBit's repository and apply to personal characteristics
 Establish Repository
