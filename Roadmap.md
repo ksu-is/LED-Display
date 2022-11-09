@@ -1,9 +1,9 @@
 ### LED Display
 # Sprint 1:
 - [ ] Purchase materials (64x32 RGB LED Matrix, 5v 4AMP power supply, Stand-offs, Ribbon Cable, RGB Matrix hat kit, Battery)
-- [x] Analyze TidBit's repository and apply to personal characteristics
-- [x] Establish Repository
-- [x] Fork Repository
+- [ ] Analyze TidBit's repository and apply to personal characteristics
+- [ ] Establish Repository
+- [ ] Fork Repository
 - [x] Create Readme 
 - [x] Create base code and add comments
 
