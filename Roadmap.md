@@ -12,7 +12,6 @@
 - Add commit messages in github repository
 - Be sure to add comments and updates on each change.
 - Research more repositories and tutorials:
-  [Tutorials](https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV&index=2)
 
 - Look into databases to implement into project
 - [ ] Make small updates and add commit messages
