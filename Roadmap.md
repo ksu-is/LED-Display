@@ -13,7 +13,7 @@
 
 # Sprint 2:
 - [x] Begin coding
-- Add commit messages in github repository
+- Add commit messages in github repository. Verify these changes in github browser.
 - Be sure to add comments and updates on each change.
 - Research more repositories and tutorials:
 
