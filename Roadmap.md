@@ -9,7 +9,7 @@
 - [x] Establish LED-Display Repository
 - [x] Fork Repository
 - [x] Create Readme 
-- [ ] Create base code and add comments
+- [x] Create base code and add comments
 
 # Sprint 2:
 - [x] Begin coding
@@ -18,9 +18,9 @@
 - Research more repositories and tutorials:
 
 - Look into databases to implement into project
-- [ ] Make small updates and add commit messages
-- [ ] Commit at least 6 code changes
-- [ ] Track progress in project road map
+- [x] Make small updates and add commit messages
+- [x] Commit at least 6 code changes
+- [x] Track progress in project road map
 # Sprint 3:
 - [ ] Continue coding, refining, and testing
 - [ ] Create one powerpoint slide introducing project
