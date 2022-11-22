@@ -6,7 +6,7 @@ def main(config):
     now = time.now().in_location(timezone)
 
     return render.Root(
-        delay = 500,
+        delay = 5000,
         child = render.Box(
             child = render.Animation(
                 children = [
@@ -22,3 +22,15 @@ def main(config):
             ),
         ),
     )
+time = raw_input().strip()
+
+meridian = time[-2:]        # "AM" or "PM"
+time_without_meridian = time[:-2]
+hour = int(time[:2])
+
+if meridian == "AM":
+    hour = (hour+1) % 12 - 1
+    print ("%02d" % hour) + time_without_meridian[2:]
+elif meridian == "PM":
+    hour += 12
+    print str(hour) + time_without_meridian[2:]
