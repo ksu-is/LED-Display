@@ -34,3 +34,5 @@ if meridian == "AM":
 elif meridian == "PM":
     hour += 12
     print str(hour) + time_without_meridian[2:]
+    print(f"regular time is: {regular_time"}
+    print(f"militarytime is {military_time}")
