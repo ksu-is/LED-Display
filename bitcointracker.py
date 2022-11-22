@@ -13,7 +13,7 @@ AYozjsoBoE45OZi5DRBSnkCAMLhlPBiQGHlAAAAAElFTkSuQmCC
 """)
 
 def main():
-    rate_cached = cache.get("btc_rate")
+    rate_cached = cache.get("btc_changerate")
     if rate_cached != None:
         print("Hit! Displaying cached data.")
         rate = int(rate_cached)
